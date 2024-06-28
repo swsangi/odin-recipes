@@ -1,0 +1,42 @@
+a:link {
+    color: rgb(63, 63, 66)
+}
+
+h1 {
+    font-family: Verdana, Helvetica, "Times New Roman";
+    color: rgb(63, 63, 66);
+    font-size: 36px;
+
+}
+h4 {
+    font-family: Verdana, Helvetica, "Times New Roman";
+    color: rgb(49, 49, 168);
+    background-color: rgb(139, 131, 141);
+    font-size: 24px;
+
+}
+
+ul {
+    font-family: Verdana, Helvetica, "Times New Roman";
+    color: rgb(63, 63, 66)
+    font-size: 24px;
+
+
+
+}
+ol {
+    font-family: Verdana, Helvetica, "Times New Roman";
+    color: rgb(63, 63, 66)
+    font-size: 24px;
+
+
+
+}
+p {
+    font-family: Verdana, Helvetica, "Times New Roman";
+    color: rgb(63, 63, 66)
+    font-size: 24px;
+    
+
+
+}
